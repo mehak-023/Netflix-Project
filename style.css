@@ -1,0 +1,80 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#first-section{
+    height: 700px;
+    background-image: url(stuff/background-jpeg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    opacity: 0.7;
+}
+.navbar{
+    height: 100px;
+}
+.logo-img{
+    width: 80%;
+}
+div.text{
+    margin-top: 18%;
+}
+.header-input{
+    padding: 15px;
+    border-radius: 0.3rem;
+    width: 30%;
+}
+.head-btn{
+    padding: 10px;
+    width: 18%;
+    font-size: x-large;
+    font-weight: bold;
+}
+#second-section{
+    height: 450px;
+    background-color: black;
+}
+h2{
+    font-size: 40px;
+    font-weight: 500;
+}
+.sec-para{
+    font-size: 20px;
+}
+.tv{
+    text-align: right;
+}
+.col{
+    margin-top: 50px;
+}
+#third-section{
+    height: 350px;
+    background-color: black;
+    text-align: left;
+}
+.girl{
+    text-align: right;
+    padding-bottom: 150px ;
+}
+
+.design-hr{
+    border: 5px solid gray;
+    margin-top: 0;
+    margin-bottom: 0;
+
+}
+#forth-section{
+        height: 350px;
+        background-color: black;
+        margin-top: 10px;
+        
+}
+#fifth-section{
+    height: 350px;
+    background-color: black;
+    margin-top: 10px;
+}
+.cartoon{
+    text-align: right;
+    padding-bottom: 70px ;
+}
